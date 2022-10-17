@@ -1,3 +1,6 @@
+body{
+    margin: 0px;
+}
 h1{
     font-family: 'Montserrat', sans-serif;
 }
@@ -11,4 +14,16 @@ h1{
 .post-container .date{
     font-family: 'Roboto', sans-serif;
     color: #008080;
+}
+
+.post-content{
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+}
+
+.post{
+   margin-bottom:50px; 
+   padding-top: 20px;
+   padding-left: 20px;
 }
