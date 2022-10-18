@@ -14,7 +14,7 @@ h1{
 .post-container .date{
     font-family: 'Roboto', sans-serif;
     color: #008080;
-    font-family: bold;
+    font-weight: bold;
 }
 
 .post-content{
